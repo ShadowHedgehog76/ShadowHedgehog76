@@ -4,13 +4,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="255" src="https://avatars.githubusercontent.com/u/111210325?v=4"  />
+<h1 align="left">DevLumine</h1>
 
 ###
 
-<h1 align="left">DevLumine</h1>
+<br clear="both">
+
+<img align="left" height="255" src="https://avatars.githubusercontent.com/u/111210325?v=4"  />
 
 ###
 
