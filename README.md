@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">👾 Welcome to DevLumine’s lab!</h2>
+<h2 align="left">👾 Welcome to Kaëlig lab!</h2>
 
 ###
 
