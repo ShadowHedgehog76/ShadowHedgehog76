@@ -10,8 +10,6 @@
 
 <br clear="both">
 
-<img align="left" height="255" src="https://avatars.githubusercontent.com/u/111210325?v=4"  />
-
 ###
 
 <div align="left">
@@ -51,14 +49,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shadowhedgehog76/shadowhedgehog76/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shadowhedgehog76/shadowhedgehog76/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shadowhedgehog76/shadowhedgehog76/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
